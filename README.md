@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Maxim marketplace**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**, **JavaSpringBoot**
 
 - 💬 Ask me about **Web programming, Android programming**
 
