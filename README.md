@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azhar</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
